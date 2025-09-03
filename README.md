@@ -52,12 +52,19 @@ Basic Python environment via Google Colab
 
 ### Libraries:
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib reportlab pillow
+
 Setup & Run
+
 Open the notebook in Google Colab (or via GitHub).
+
 Install dependencies and run the cells to initialize the input forms.
+
 Provide your details as prompted.
+
 Choose whether to use the fancy layout and upload to Drive.
+
 Generate and download the PDFs.
+
 If enabled, files will also be uploaded to your Google Drive under "MyResumeCVs".
 
 ## Usage Example
